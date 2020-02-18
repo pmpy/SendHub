@@ -1,0 +1,2 @@
+fallback-server: Hub
+fallback-message: "&bYou have been sent to &3<fallback_server> &bfor &3<reason>"
